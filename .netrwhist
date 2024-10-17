@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/tobecomeawind/.vim/plugins/nerdtree'
+let g:netrw_dirhist_8='/home/tobecomeawind/.vim/plugins'
+let g:netrw_dirhist_7='/home/tobecomeawind/.vim/autoload'
+let g:netrw_dirhist_6='/home/tobecomeawind/Devs/dib'
+let g:netrw_dirhist_5='/home/tobecomeawind/.vim'
+let g:netrw_dirhist_4='/home/tobecomeawind/Devs/dib/src'
+let g:netrw_dirhist_3='/home/tobecomeawind/Devs/SlavaAbdullo'
+let g:netrw_dirhist_2='/home/tobecomeawind/Devs/Haffman/.git'
+let g:netrw_dirhist_1='/home/tobecomeawind/Devs/Haffman'
