@@ -3,6 +3,8 @@ syntax on
 "connect the 'header' file with plugins
 source ~/.vim/plugins.vim
 
+"fucking bul`k off
+set belloff=all
 
 "disable compatibillity, vi essues
 set nocompatible
@@ -101,6 +103,11 @@ inoremap <silent> <C-;> <Right>
 vnoremap <silent> l j
 vnoremap <silent> j h
 vnoremap <silent> ; l
+
+
+noremap <silent> <C-w><C-l> <C-w><C-j>
+noremap <silent> <C-w><C-j> <C-w><C-h>
+noremap <silent> <C-w><C-;> <C-w><C-l>
 
 
 map <C-s> :w <CR>
