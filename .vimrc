@@ -58,10 +58,11 @@ set wildmode=list:longest "readaeble view
 
 
 
-colorscheme 256_noir
+colorscheme 256_blanc
 
 "twilight256
 "256_noir
+"256_noir_white
 "angr
 "happy_hacking
 
